@@ -2,7 +2,7 @@
 
 ## AppStore
 
-<!--Please find the app in the [Apple AppStore](https://apps.apple.com/de/app/.../...).-->
+Please find the app in the [Apple AppStore](https://apps.apple.com/us/app/video-pre-recorder/id6450628773).
 
 The app is supported on iPhones and iPads starting with iOS 16, respectively iPadOs 16.
 
